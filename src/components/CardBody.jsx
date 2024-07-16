@@ -51,7 +51,7 @@ function CardBody () {
             <div className="card__info">
                 <h2>Our Collection</h2>
                 <p>Introducing our Coffee Collection, a selection of unique coffees from different roast types and origins, 
-                expertly roasted in small batches and shipped fresh weekly.poo</p>
+                expertly roasted in small batches and shipped fresh weekly.</p>
                 <div className="btn__container">
                 <button id="btn__all" onClick={handleAll}>All Products</button>
                 <button id="btn__filter" onClick={handleAvailable}>Available Now</button>
